@@ -1,0 +1,32 @@
+{
+    "positions": [
+        {
+            "cover": "/positions/TOP20_PG.webp", 
+            "title": "Point Guard",
+            "search": "PG"
+
+        }, 
+        {
+            "cover": "/positions/TOP20_C.webp", 
+            "title": "Center",
+            "search":"C"
+
+        },
+        {
+            "cover": "/positions/TOP20_SF.webp", 
+            "title": "Small Foward",
+            "search":"SF"
+            
+        },
+        {
+            "cover": "/positions/TOP20_SG.webp", 
+            "title": "Shooting Guard",
+            "search":"SG"
+        },
+        {
+            "cover": "/positions/TOP20_PF.webp", 
+            "title": "Power Foward",
+            "search": "PF"
+        }
+    ]
+}

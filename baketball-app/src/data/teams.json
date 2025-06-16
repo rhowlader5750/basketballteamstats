@@ -1,0 +1,151 @@
+{
+    "teams": [
+        {
+            "cover": "/team_logos/ATL-2025.png", 
+            "title": "Atlanta Hawks",
+            "initial": "ATL"
+
+        }, 
+        {
+            "cover": "/team_logos/BRK-2025.png", 
+            "title": "Brooklyn Nets",
+            "initial": "BRK"
+        },
+        {
+            "cover": "/team_logos/CHI-2025.png", 
+            "title": "Chicago Bulls",
+            "initial": "CHI"
+        },
+        {
+            "cover": "/team_logos/CHO-2025.png", 
+            "title": "Charlotte Hornets",
+            "initial": "CHO"
+        },
+        {
+            "cover": "/team_logos/CLE-2025.png", 
+            "title": "Cleveland Cavaliers",
+            "initial": "CLE"
+        },
+        {
+            "cover": "/team_logos/DAL-2025.png", 
+            "title": "Dallas Mavericks",
+            "initial": "DAL"
+        },
+        {
+            "cover": "/team_logos/DEN-2025.png", 
+            "title": "Denver Nuggets",
+            "initial": "DEN"
+        }, 
+        {
+            "cover": "/team_logos/DET-2025.png", 
+            "title": "Detroit Pistons",
+            "initial": "DET"
+        },
+        {
+            "cover": "/team_logos/GSW-2025.png", 
+            "title": "Golden State Warriors",
+            "initial": "GSW"
+        },
+        {
+            "cover": "/team_logos/HOU-2025.png", 
+            "title": "Houston Rockets",
+            "initial": "HOU"
+        },
+        {
+            "cover": "/team_logos/IND-2025.png", 
+            "title": "Indiana Pacers",
+            "initial": "IND"
+        },
+        {
+            "cover": "/team_logos/LAC-2025.png", 
+            "title": "Los Angeles Clippers",
+            "initial": "LAC"
+        },
+        {
+            "cover": "/team_logos/LAL-2025.png", 
+            "title": "Los Angeles Lakers",
+            "initial": "LAL"
+        },
+        {
+            "cover": "/team_logos/MEM-2025.png", 
+            "title": "Memphis Grizzlies",
+            "initial": "MEM"
+        },
+        {
+            "cover": "/team_logos/MIA-2025.png", 
+            "title": "Milwaukee Bucks",
+            "initial": "MIA"
+        },
+        {
+            "cover": "/team_logos/MIL-2025.png", 
+            "title": "Milwaukee Bucks",
+            "initial": "MIL"
+        },
+        {
+            "cover": "/team_logos/MIN-2025.png", 
+            "title": "Minnesota Timberwolves",
+            "initial": "MIN"
+        },
+        {
+            "cover": "/team_logos/NOP-2025.png", 
+            "title": "New Orleans Pelicans",
+            "initial": "NOP"
+        },
+        {
+            "cover": "/team_logos/NYK-2025.png", 
+            "title": "New York Knicks",
+            "initial": "NYK"
+        },
+        {
+            "cover": "/team_logos/OKC-2025.png", 
+            "title": "Oklahoma City Thunder",
+            "initial": "OKC"
+        },
+        {
+            "cover": "/team_logos/ORL-2025.png", 
+            "title": "Orlando Magic",
+            "initial": "ORL"
+        },
+        {
+            "cover": "/team_logos/PHI-2025.png", 
+            "title": "Philadelphia 76ers",
+            "initial": "PHI"
+        },
+        {
+            "cover": "/team_logos/PHO-2025.png", 
+            "title": "Phoenix Suns",
+            "initial": "PHO"
+        },
+        {
+            "cover": "/team_logos/POR-2025.png", 
+            "title": "Portland Trail Blazers",
+            "initial": "POR"
+        },
+        {
+            "cover": "/team_logos/SAC-2025.png", 
+            "title": "Sacramento Kings",
+            "initial": "SAC"
+        },
+        {
+            "cover": "/team_logos/SAS-2025.png", 
+            "title": "San Antonio Spurs",
+            "initial": "SAS"
+        },
+        {
+            "cover": "/team_logos/TOR-2025.png", 
+            "title": "Toronto Raptors",
+            "initial": "TOR"
+        },
+        {
+            "cover": "/team_logos/UTA-2025.png", 
+            "title": "Utah Jazz",
+            "initial": "UTA"
+        },
+        {
+            "cover": "/team_logos/WAS-2025.png", 
+            "title": "Washington Wizards",
+            "initial": "WAS"
+        }
+
+    ]
+}
