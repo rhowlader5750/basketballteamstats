@@ -12,6 +12,11 @@
             "initial": "BRK"
         },
         {
+            "cover": "/team_logos/BOS-2025.png", 
+            "title": "Boston Celetics",
+            "initial": "BOS"
+        },
+        {
             "cover": "/team_logos/CHI-2025.png", 
             "title": "Chicago Bulls",
             "initial": "CHI"

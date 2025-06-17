@@ -58,8 +58,8 @@ const TeamData = () => {
     if (teamValue) {
       axios.get(`http://localhost:8080/api/v1/players?team=${encodeURIComponent(teamValue)}`)
         .then(response => {
-          console.log(response.data); // Check the structure of your response
-          setPlayerData(response.data); // Adjust according to the actual response structure
+          console.log(response.data); 
+          setPlayerData(response.data); 
           setLoading(false);
         })
         .catch(error => {
